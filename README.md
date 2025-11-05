@@ -8,4 +8,4 @@
 
 
 
-**        richy| 初三学生 | Python & HTML & JavaScript & Node.js 开发者 | 技术分享者 | 热爱生活的编程探索者      **
+**richy| 初三学生 | Python & HTML & JavaScript & Node.js 开发者 | 技术分享者 | 热爱生活的编程探索者**
