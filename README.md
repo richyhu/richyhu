@@ -4,7 +4,7 @@
 
 
 
-![欢迎横幅](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=180\&section=header\&text=你好%20世界!\&fontSize=60\&animation=fadeIn\&fontAlignY=35\&desc=初三学生一枚\&descAlignY=60\&descAlign=60)
+![欢迎横幅](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=180\&section=header\&text=Hallo%20word!\&fontSize=60\&animation=fadeIn\&fontAlignY=35\&desc=初三学生一枚\&descAlignY=60\&descAlign=60)
 
 
 
